@@ -9,7 +9,7 @@ Explore, analyze, and understand your **xcassets** and **snapshot tests** with a
 
 ## 🎬 Demo
 
-![NSAssets Demo](docs/Assets/nsassets_demo.gif)
+![NSAssets Demo](assets/nss.gif)
 
 ---
 
