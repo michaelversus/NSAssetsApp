@@ -61,7 +61,7 @@ NSAssets fills that gap with:
 
 Available on the Mac App Store:
 
-[![Mac App Store](Assets/download_mac_app_store.svg)](https://apps.apple.com/gr/app/nsassets/id6760512142?mt=12)
+[![Mac App Store](assets/download_mac_app_store.svg)](https://apps.apple.com/gr/app/nsassets/id6760512142?mt=12)
 
 ---
 
